@@ -17,7 +17,7 @@ With over 3 years of experience in Odoo development, I specialize in creating ef
 - ⚡ <b>Fun fact:</b> I love to play Metro Exodus. 🛤️☢️<br>
 
 ---
-<h3>My skils include</h3>
+<h3>My skills include</h3>
 <h4>Languages</h4>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
