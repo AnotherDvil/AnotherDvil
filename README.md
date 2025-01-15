@@ -8,13 +8,13 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
 
-<h3>I'm a Computer Science and Engineering Student</h3>
-With over 8 years of experience as a Software Engineer, I'm on a mission to create technology solutions that connect the digital world with real life! I have the power to develop in frontend, backend, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
+<h3>I'm a Computer Systems Engineer, Python Developer, and Project Leader</h3>
+With over 3 years of experience in Odoo development, I specialize in creating efficient and innovative solutions that bridge business needs with cutting-edge technology. From module customization to API integration, I excel in dynamic and collaborative environments where my backend and frontend development skills shine. Passionate about problem-solving and delivering clean, scalable solutions, my goal is to empower businesses with efficient digital tools. Let’s innovate together! 🚀
 <br> <br>
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.<br>
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅<br>
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.<br>
-- ⚡ Fun fact: I love to play pool and snooker 🎱.<br>
+- 👨‍💻 Current Focus: Working with Odoo from version 14 to 17, integrating APIs, and enhancing web functionalities.<br>
+- 📚 Learning Journey: Exploring advanced web development technologies and Python-based tools. 😅<br>
+- 💪🏼 Future Goals: Master emerging tech trends and expand my expertise in cloud computing.<br>
+- ⚡ Fun fact: I love to play Metro Exodus. 🛤️☢️<br>
 
 ---
 <h3>My skils include</h3>
