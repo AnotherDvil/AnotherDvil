@@ -14,7 +14,7 @@ With over 3 years of experience in Odoo development, I specialize in creating ef
 - 👨‍💻 <b>Current Focus:</b> Working with Odoo from version 14 to 18, integrating APIs, and enhancing web functionalities.<br>
 - 📚 <b>Learning Journey:</b> Exploring advanced web development technologies and Python-based tools. 😅<br>
 - 💪🏼 <b>Future Goals:</b> Master emerging tech trends and expand my expertise in cloud computing.<br>
-- ⚡ <b>Fun fact:</b> I love to play Metro Exodus. 🛤️☢️<br>
+- ⚡ <b>Fun fact:</b> I love to play Metro Exodus & Minecraft. 🛤️☢️<br>
 
 ---
 <h3>My skills include</h3>
