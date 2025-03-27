@@ -11,7 +11,7 @@
 <h3>I'm a Computer Systems Engineer, Python Developer, & Project Leader</h3>
 With over 3 years of experience in Odoo development, I specialize in creating efficient and innovative solutions that bridge business needs with cutting-edge technology. From module customization to API integration, I excel in dynamic and collaborative environments where my backend and frontend development skills shine. Passionate about problem-solving and delivering clean, scalable solutions, my goal is to empower businesses with efficient digital tools. Let’s innovate together! 🚀
 <br> <br>
-- 👨‍💻 <b>Current Focus:</b> Working with Odoo from version 14 to 17, integrating APIs, and enhancing web functionalities.<br>
+- 👨‍💻 <b>Current Focus:</b> Working with Odoo from version 14 to 18, integrating APIs, and enhancing web functionalities.<br>
 - 📚 <b>Learning Journey:</b> Exploring advanced web development technologies and Python-based tools. 😅<br>
 - 💪🏼 <b>Future Goals:</b> Master emerging tech trends and expand my expertise in cloud computing.<br>
 - ⚡ <b>Fun fact:</b> I love to play Metro Exodus. 🛤️☢️<br>
